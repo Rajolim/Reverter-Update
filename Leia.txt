@@ -1,0 +1,1 @@
+Para achar o numero da atualização bastar ir em (Configurações> Update> Historico).
